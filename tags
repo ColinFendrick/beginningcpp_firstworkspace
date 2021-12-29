@@ -1,0 +1,2 @@
+main	/Users/colin.fendrick/projects/firstworkspace/project1/main.cpp	/^int main() {$/;"	function	line:3	signature:()	returns:int 
+endl	/Users/colin.fendrick/projects/firstworkspace/project1/main.cpp	/^    std::cout << "Hello" << std::endl;$/;"	member	line:4	class:std
